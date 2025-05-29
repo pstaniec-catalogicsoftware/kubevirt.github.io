@@ -38,6 +38,9 @@ adopters:
     logo: S3NS.svg
     name: S3NS
   integrations:
+  - link: https://docs.cloudcasa.io/help/reference-vm.html
+    logo: CloudCasabyCatalogic.svg
+    name: CloudCasa by Catalogic
   - link: https://docs.kasten.io/latest/usage/openshift_virtualization.html?highlight=kubevirt
     logo: KastenbyVeeam.png
     name: Kasten by Veeam
