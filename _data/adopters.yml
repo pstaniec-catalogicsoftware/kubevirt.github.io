@@ -42,8 +42,11 @@ adopters:
     logo: CloudCasabyCatalogic.svg
     name: CloudCasa by Catalogic
   - link: https://docs.kasten.io/latest/usage/openshift_virtualization.html?highlight=kubevirt
-    logo: KastenbyVeeam.png
+    logo: KastenbyVeeam.svg
     name: Kasten by Veeam
+  - link: https://isovalent.com/labs/cilium-kubevirt/
+    logo: isovalent.svg
+    name: Isovalent at Cisco
   - link: https://minikube.sigs.k8s.io
     logo: minikube.png
     name: minikube
@@ -59,6 +62,9 @@ adopters:
   - link: https://www.pitsdatarecovery.net/
     logo: PITSGlobalDataRecoveryServices.svg
     name: PITS Global Data Recovery Services
+  - link: https://portworx.com/services/kubernetes-storage/
+    logo: PORTWORX.png
+    name: Portworx
   - link: https://trilio.io/
     logo: Trilio.svg
     name: Trilio
